@@ -1,0 +1,12 @@
+{
+  "name": "buscadorCep",
+  "displayName": "buscadorCep",
+  "expo": {
+    "name": "buscadorCep",
+    "slug": "buscadorCep",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
